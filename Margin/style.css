@@ -1,0 +1,19 @@
+.div1 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+.div2 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+}
+
+.div3 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+}
